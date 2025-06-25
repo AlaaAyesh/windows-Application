@@ -94,6 +94,8 @@ Below is the backup icon used in the application:
 
 ![Backup Icon](Resources/Data-Database-Backup-icon.png)
 
+![Backup Screenshot](assets/backup-2.png)
+
 ## Technology Stack
 
 - **.NET 8.0** – Windows Forms  
