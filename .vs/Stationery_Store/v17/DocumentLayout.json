@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Work Projects\\WinAppProject\\Business-Management\\",
+  "WorkspaceRootPath": "E:\\Projects\\newApp\\windows-Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE5E2176-78AE-45F2-A36E-1FAB14E23061}|Stationery_Store\\Stationery_Store.csproj|e:\\work projects\\winappproject\\business-management\\stationery_store\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CE5E2176-78AE-45F2-A36E-1FAB14E23061}|Stationery_Store\\Stationery_Store.csproj|e:\\projects\\newapp\\windows-application\\stationery_store\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CE5E2176-78AE-45F2-A36E-1FAB14E23061}|Stationery_Store\\Stationery_Store.csproj|solutionrelative:stationery_store\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE5E2176-78AE-45F2-A36E-1FAB14E23061}|Stationery_Store\\Stationery_Store.csproj|e:\\work projects\\winappproject\\business-management\\stationery_store\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE5E2176-78AE-45F2-A36E-1FAB14E23061}|Stationery_Store\\Stationery_Store.csproj|e:\\projects\\newapp\\windows-application\\stationery_store\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE5E2176-78AE-45F2-A36E-1FAB14E23061}|Stationery_Store\\Stationery_Store.csproj|solutionrelative:stationery_store\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsForm.cs [Design]",
-              "DocumentMoniker": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Forms\\ProductsForm.cs",
+              "DocumentMoniker": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Forms\\ProductsForm.cs",
               "RelativeDocumentMoniker": "Stationery_Store\\Forms\\ProductsForm.cs",
-              "ToolTip": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Forms\\ProductsForm.cs [Design]",
+              "ToolTip": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Forms\\ProductsForm.cs [Design]",
               "RelativeToolTip": "Stationery_Store\\Forms\\ProductsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T13:28:46.652Z",
@@ -48,14 +48,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductsForm.cs",
-              "DocumentMoniker": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Forms\\ProductsForm.cs",
+              "DocumentMoniker": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Forms\\ProductsForm.cs",
               "RelativeDocumentMoniker": "Stationery_Store\\Forms\\ProductsForm.cs",
-              "ToolTip": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Forms\\ProductsForm.cs",
+              "ToolTip": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Forms\\ProductsForm.cs",
               "RelativeToolTip": "Stationery_Store\\Forms\\ProductsForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQDAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:12:53.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T13:12:53.239Z"
             }
           ]
         }

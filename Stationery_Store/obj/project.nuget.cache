@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DzICfgD4cnA=",
+  "dgSpecHash": "/V1Q2vA9SOM=",
   "success": true,
-  "projectFilePath": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Stationery_Store.csproj",
+  "projectFilePath": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Stationery_Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

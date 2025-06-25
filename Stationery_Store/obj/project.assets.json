@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Stationery_Store.csproj",
+      "projectUniqueName": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Stationery_Store.csproj",
       "projectName": "Stationery_Store",
-      "projectPath": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\Stationery_Store.csproj",
+      "projectPath": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\Stationery_Store.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "E:\\Work Projects\\WinAppProject\\Business-Management\\Stationery_Store\\obj\\",
+      "outputPath": "E:\\Projects\\newApp\\windows-Application\\Stationery_Store\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
